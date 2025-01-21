@@ -1,6 +1,8 @@
 [
   {
     "title": "The Shawshank Redemption",
+    "description": "Wrongfully convicted of murder, Andy Dufresne is sentenced to life in Shawshank Prison. Despite the harsh environment, he befriends fellow inmate Ellis 'Red' Redding and retains hope through acts of quiet defiance. Over decades, Andy's ingenuity and determination lead to a surprising and inspiring escape, proving the power of hope and friendship in the face of despair.",
+    "poster": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2024/09/17/80db22ba-5b4d-428a-809e-68f0407dbb56_c1552eb6.jpg?itok=K8rrrkxZ&v=1726557010",
     "year": "1994",
     "genre": ["Drama"],
     "country": ["USA"],
@@ -22,6 +24,8 @@
   },
   {
     "title": "The Godfather",
+    "description": "The Godfather follows the powerful Corleone crime family, led by Don Vito Corleone, who strives to maintain his family's influence in a world of betrayal and power struggles. As his youngest son, Michael, is gradually drawn into the criminal underworld, the story explores themes of loyalty, family, and vengeance, leading to Michael’s eventual rise as the new head of the family.",
+    "poster": "https://mshanken.imgix.net/cao/bolt/2022-03/1647463313_godfather0422.jpg",
     "year": "1972",
     "genre": ["Crime", "Drama"],
     "country": ["USA"],
@@ -51,6 +55,8 @@
   },
   {
     "title": "The Dark Knight",
+    "description": "In Gotham City, Batman faces his most dangerous adversary yet: the Joker, a criminal mastermind who thrives on chaos and seeks to plunge the city into anarchy. As Batman struggles to uphold justice, the Joker forces him to confront his own moral code, leading to an intense battle for Gotham’s soul. This gripping tale explores themes of heroism, corruption, and the fine line between order and chaos.",
+    "poster": "https://media.gq.com/photos/5b4dfa2c9eea1c27bfdb9e9b/16:9/w_1942,h_1092,c_limit/10-year-anniversary-the-dark-knight-gq.jpg",
     "year": "2008",
     "genre": ["Action", "Crime", "Drama"],
     "country": ["USA", "UK"],
@@ -73,6 +79,8 @@
   },
   {
     "title": "Pulp Fiction",
+    "description": "Pulp Fiction weaves together multiple interconnected stories involving crime, redemption, and dark humor. From a hitman's philosophical musings to a boxer’s moral struggle, the film navigates through violent encounters, unexpected twists, and quirky dialogue. Directed by Quentin Tarantino, it is a non-linear narrative that explores the randomness of life, fate, and consequence in a stylized and iconic way.",
+    "poster": "https://images.bauerhosting.com/legacy/empire-tmdb/films/680/images/mte63qJaVnoxkkXbHkdFujBnBgd.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80",
     "year": "1994",
     "genre": ["Crime", "Drama"],
     "country": ["USA"],
@@ -94,6 +102,8 @@
   },
   {
     "title": "Schindler's List",
+    "description": "Schindler's List tells the true story of Oskar Schindler, a German businessman who saves over 1,100 Jewish refugees during the Holocaust by employing them in his factories. As the atrocities of World War II unfold, Schindler’s motivations evolve from profit-driven to a deep moral awakening. Directed by Steven Spielberg, the film is a powerful testament to human compassion amidst unimaginable cruelty.",
+    "poster": "https://d13jj08vfqimqg.cloudfront.net/uploads/film/photo_1/3688/large_2216_BW_K1350_03A.jpg",
     "year": "1993",
     "genre": ["Biography", "Drama", "History"],
     "country": ["USA"],
@@ -128,6 +138,8 @@
   },
   {
     "title": "The Lord of the Rings: The Return of the King",
+    "description": "In the epic conclusion of the Lord of the Rings trilogy, Frodo Baggins and Samwise Gamgee continue their perilous journey to destroy the One Ring in the fires of Mount Doom. Meanwhile, Aragorn must embrace his destiny as the true king of Gondor and lead the forces of Middle-earth in a final battle against the dark lord Sauron. The Return of the King is a tale of courage, sacrifice, and the power of friendship.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI5MDg3MzU1MV5BMl5BanBnXkFtZTcwODk2MTk2Mw@@._V1_.jpg",
     "year": "2003",
     "genre": ["Action", "Adventure", "Drama"],
     "country": ["New Zealand", "USA"],
@@ -167,6 +179,8 @@
   },
   {
     "title": "Fight Club",
+    "description": "Fight Club follows an unnamed narrator who, disillusioned with his corporate life, forms an underground fight club with the charismatic Tyler Durden. The club quickly spirals into a violent and anarchic movement, forcing the narrator to confront his own identity and desires. Directed by David Fincher, the film explores themes of consumerism, masculinity, and self-destruction.",
+    "poster": "https://assetsio.gnwcdn.com/fight-club_qJmgCZU.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp",
     "year": "1999",
     "genre": ["Drama"],
     "country": ["USA"],
@@ -180,6 +194,8 @@
   },
   {
     "title": "Forrest Gump",
+    "description": "Forrest Gump is a heartwarming and inspiring tale of a man with a kind heart and limited intellectual abilities who unwittingly influences major events in American history. From serving in the Vietnam War to running across the country, Forrest's extraordinary life is marked by love, loss, and triumph, as he remains steadfast in his loyalty and belief in the goodness of life.",
+    "poster": "https://www.denofgeek.com/wp-content/uploads/2022/05/Tom-Hanks-as-Forrest-Gump.jpeg?resize=768%2C432",
     "year": "1994",
     "genre": ["Drama", "Romance"],
     "country": ["USA"],
@@ -214,6 +230,8 @@
   },
   {
     "title": "Inception",
+    "description": "Inception follows a skilled thief, Dom Cobb, who is able to enter people's dreams and steal their secrets. Tasked with planting an idea in the mind of a target, Cobb assembles a team for the most complex heist of his career. As the lines between dreams and reality blur, Inception explores the nature of memory, guilt, and the human subconscious.",
+    "poster": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/04/inception-characters-film-crew.jpg",
     "year": "2010",
     "genre": ["Action", "Adventure", "Sci-Fi"],
     "country": ["USA", "UK", "Japan"],
@@ -241,6 +259,8 @@
   },
   {
     "title": "The Matrix",
+    "description": "The Matrix follows a hacker named Neo, who discovers that the world he knows is an illusion created by intelligent machines to subdue humanity. With the help of Morpheus and Trinity, Neo joins a rebellion against the machines. A groundbreaking blend of philosophy, action, and special effects, The Matrix explores themes of reality, control, and the potential for human transcendence.",
+    "poster": "https://images.bauerhosting.com/legacy/empire-tmdb/films/603/images/7u3pxc0K1wx32IleAkLv78MKgrw.jpg?ar=16:9&fit=crop&crop=top",
     "year": "1999",
     "genre": ["Action", "Sci-Fi"],
     "country": ["Australia", "USA"],
@@ -264,6 +284,8 @@
   },
   {
     "title": "Goodfellas",
+    "description": "Goodfellas is a riveting true-life story directed by Martin Scorsese, detailing the rise and fall of Henry Hill and his involvement in the Mafia. With its fast-paced storytelling, iconic performances by Ray Liotta and Robert De Niro, and Scorsese's signature style, this film remains a classic in the crime genre.",
+    "poster": "https://i.guim.co.uk/img/media/b91bfbcc98000de0de878a7489207c3acc25d66e/0_948_3650_2189/master/3650.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=f90652db1a63ff24f722adcd9710096a",
     "year": "1990",
     "genre": ["Biography", "Crime", "Drama"],
     "country": ["USA"],
@@ -284,6 +306,8 @@
   },
   {
     "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "description": "Peter Jackson's adaptation of J.R.R. Tolkien's epic fantasy novel, The Fellowship of the Ring, introduces audiences to the quest to destroy the One Ring. Featuring stunning visuals, unforgettable characters, and an emotional score, it is the first installment of the legendary trilogy that captivated audiences worldwide.",
+    "poster": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/909/98/thumb_F217C17A-3384-4B24-82F8-4305A4224AB0.jpg",
     "year": "2001",
     "genre": ["Action", "Adventure", "Drama"],
     "country": ["New Zealand", "USA"],
@@ -315,6 +339,8 @@
   },
   {
     "title": "The Lord of the Rings: The Two Towers",
+    "description": "The Two Towers continues the epic journey of the Fellowship as they fight to prevent Sauron's forces from conquering Middle-Earth. With thrilling battles, stunning visual effects, and a deeper exploration of the characters' arcs, this film solidifies the trilogy as one of the greatest cinematic achievements.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODM5MDcyNDAxMF5BMl5BanBnXkFtZTcwODQ3NDk2Mw@@._V1_.jpg",
     "year": "2002",
     "genre": ["Action", "Adventure", "Drama"],
     "country": ["New Zealand", "USA"],
@@ -335,357 +361,8 @@
   },
   {
     "title": "The Empire Strikes Back",
-    "year": "1980",
-    "genre": ["Action", "Adventure", "Fantasy"],
-    "country": ["USA"],
-    "imdb_rating": 8.7,
-    "oscar_nominations": 3,
-    "oscar_winning": 2,
-    "cast": ["Mark Hamill", "Harrison Ford"],
-    "language": ["English"],
-    "oscar_nominations_list": [
-      "Best Art Direction",
-      "Best Original Score",
-      "Best Sound"
-    ],
-    "oscar_winning_list": ["Best Art Direction", "Best Original Score"]
-  },
-  {
-    "title": "The Shawshank Redemption",
-    "year": "1994",
-    "genre": ["Drama"],
-    "country": ["USA"],
-    "imdb_rating": 9.3,
-    "oscar_nominations": 7,
-    "oscar_winning": 0,
-    "cast": ["Tim Robbins", "Morgan Freeman"],
-    "language": ["English"],
-    "oscar_nominations_list": [
-      "Best Picture",
-      "Best Actor",
-      "Best Supporting Actor",
-      "Best Director",
-      "Best Adapted Screenplay",
-      "Best Cinematography",
-      "Best Film Editing"
-    ],
-    "oscar_winning_list": []
-  },
-  {
-    "title": "The Godfather",
-    "year": "1972",
-    "genre": ["Crime", "Drama"],
-    "country": ["USA"],
-    "imdb_rating": 9.2,
-    "oscar_nominations": 11,
-    "oscar_winning": 3,
-    "cast": ["Marlon Brando", "Al Pacino"],
-    "language": ["English", "Italian"],
-    "oscar_nominations_list": [
-      "Best Picture",
-      "Best Actor",
-      "Best Supporting Actor",
-      "Best Director",
-      "Best Adapted Screenplay",
-      "Best Cinematography",
-      "Best Costume Design",
-      "Best Production Design",
-      "Best Film Editing",
-      "Best Original Score",
-      "Best Original Song"
-    ],
-    "oscar_winning_list": [
-      "Best Picture",
-      "Best Actor",
-      "Best Adapted Screenplay"
-    ]
-  },
-  {
-    "title": "The Dark Knight",
-    "year": "2008",
-    "genre": ["Action", "Crime", "Drama"],
-    "country": ["USA", "UK"],
-    "imdb_rating": 9,
-    "oscar_nominations": 8,
-    "oscar_winning": 2,
-    "cast": ["Christian Bale", "Heath Ledger"],
-    "language": ["English"],
-    "oscar_nominations_list": [
-      "Best Picture",
-      "Best Supporting Actor",
-      "Best Cinematography",
-      "Best Film Editing",
-      "Best Sound",
-      "Best Sound Effects",
-      "Best Visual Effects",
-      "Best Original Score"
-    ],
-    "oscar_winning_list": ["Best Supporting Actor", "Best Sound Effects"]
-  },
-  {
-    "title": "Pulp Fiction",
-    "year": "1994",
-    "genre": ["Crime", "Drama"],
-    "country": ["USA"],
-    "imdb_rating": 8.9,
-    "oscar_nominations": 7,
-    "oscar_winning": 1,
-    "cast": ["John Travolta", "Uma Thurman"],
-    "language": ["English"],
-    "oscar_nominations_list": [
-      "Best Picture",
-      "Best Actor",
-      "Best Supporting Actor",
-      "Best Director",
-      "Best Original Screenplay",
-      "Best Film Editing",
-      "Best Original Score"
-    ],
-    "oscar_winning_list": ["Best Original Screenplay"]
-  },
-  {
-    "title": "Schindler's List",
-    "year": "1993",
-    "genre": ["Biography", "Drama", "History"],
-    "country": ["USA"],
-    "imdb_rating": 8.9,
-    "oscar_nominations": 12,
-    "oscar_winning": 7,
-    "cast": ["Liam Neeson", "Ben Kingsley"],
-    "language": ["English", "Polish", "German"],
-    "oscar_nominations_list": [
-      "Best Picture",
-      "Best Actor",
-      "Best Supporting Actor",
-      "Best Director",
-      "Best Adapted Screenplay",
-      "Best Cinematography",
-      "Best Film Editing",
-      "Best Original Score",
-      "Best Art Direction",
-      "Best Costume Design",
-      "Best Makeup",
-      "Best Sound"
-    ],
-    "oscar_winning_list": [
-      "Best Picture",
-      "Best Director",
-      "Best Adapted Screenplay",
-      "Best Original Score",
-      "Best Cinematography",
-      "Best Film Editing",
-      "Best Art Direction"
-    ]
-  },
-  {
-    "title": "The Lord of the Rings: The Return of the King",
-    "year": "2003",
-    "genre": ["Action", "Adventure", "Drama"],
-    "country": ["New Zealand", "USA"],
-    "imdb_rating": 8.9,
-    "oscar_nominations": 11,
-    "oscar_winning": 11,
-    "cast": ["Elijah Wood", "Viggo Mortensen"],
-    "language": ["English", "Sindarin"],
-    "oscar_nominations_list": [
-      "Best Picture",
-      "Best Actor",
-      "Best Supporting Actor",
-      "Best Director",
-      "Best Adapted Screenplay",
-      "Best Cinematography",
-      "Best Film Editing",
-      "Best Original Score",
-      "Best Art Direction",
-      "Best Costume Design",
-      "Best Makeup",
-      "Best Sound",
-      "Best Visual Effects"
-    ],
-    "oscar_winning_list": [
-      "Best Picture",
-      "Best Director",
-      "Best Adapted Screenplay",
-      "Best Original Score",
-      "Best Cinematography",
-      "Best Film Editing",
-      "Best Art Direction",
-      "Best Costume Design",
-      "Best Makeup",
-      "Best Sound",
-      "Best Visual Effects"
-    ]
-  },
-  {
-    "title": "Fight Club",
-    "year": "1999",
-    "genre": ["Drama"],
-    "country": ["USA"],
-    "imdb_rating": 8.8,
-    "oscar_nominations": 1,
-    "oscar_winning": 0,
-    "cast": ["Brad Pitt", "Edward Norton"],
-    "language": ["English"],
-    "oscar_nominations_list": ["Best Sound Effects"],
-    "oscar_winning_list": []
-  },
-  {
-    "title": "Forrest Gump",
-    "year": "1994",
-    "genre": ["Drama", "Romance"],
-    "country": ["USA"],
-    "imdb_rating": 8.8,
-    "oscar_nominations": 13,
-    "oscar_winning": 6,
-    "cast": ["Tom Hanks", "Robin Wright"],
-    "language": ["English"],
-    "oscar_nominations_list": [
-      "Best Picture",
-      "Best Actor",
-      "Best Supporting Actor",
-      "Best Director",
-      "Best Adapted Screenplay",
-      "Best Film Editing",
-      "Best Original Score",
-      "Best Art Direction",
-      "Best Costume Design",
-      "Best Makeup",
-      "Best Sound",
-      "Best Visual Effects",
-      "Best Original Song"
-    ],
-    "oscar_winning_list": [
-      "Best Picture",
-      "Best Actor",
-      "Best Director",
-      "Best Adapted Screenplay",
-      "Best Original Score",
-      "Best Visual Effects"
-    ]
-  },
-  {
-    "title": "Inception",
-    "year": "2010",
-    "genre": ["Action", "Adventure", "Sci-Fi"],
-    "country": ["USA", "UK", "Japan"],
-    "imdb_rating": 8.8,
-    "oscar_nominations": 8,
-    "oscar_winning": 4,
-    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"],
-    "language": ["English", "Japanese", "French"],
-    "oscar_nominations_list": [
-      "Best Picture",
-      "Best Original Screenplay",
-      "Best Cinematography",
-      "Best Film Editing",
-      "Best Sound",
-      "Best Sound Effects",
-      "Best Visual Effects",
-      "Best Original Score"
-    ],
-    "oscar_winning_list": [
-      "Best Original Score",
-      "Best Visual Effects",
-      "Best Sound",
-      "Best Sound Effects"
-    ]
-  },
-  {
-    "title": "The Matrix",
-    "year": "1999",
-    "genre": ["Action", "Sci-Fi"],
-    "country": ["Australia", "USA"],
-    "imdb_rating": 8.7,
-    "oscar_nominations": 4,
-    "oscar_winning": 4,
-    "cast": ["Keanu Reeves", "Laurence Fishburne"],
-    "language": ["English"],
-    "oscar_nominations_list": [
-      "Best Film Editing",
-      "Best Sound",
-      "Best Sound Effects",
-      "Best Visual Effects"
-    ],
-    "oscar_winning_list": [
-      "Best Film Editing",
-      "Best Sound",
-      "Best Sound Effects",
-      "Best Visual Effects"
-    ]
-  },
-  {
-    "title": "Goodfellas",
-    "year": "1990",
-    "genre": ["Biography", "Crime", "Drama"],
-    "country": ["USA"],
-    "imdb_rating": 8.7,
-    "oscar_nominations": 6,
-    "oscar_winning": 1,
-    "cast": ["Ray Liotta", "Robert De Niro"],
-    "language": ["English", "Italian", "Spanish"],
-    "oscar_nominations_list": [
-      "Best Picture",
-      "Best Supporting Actor",
-      "Best Director",
-      "Best Adapted Screenplay",
-      "Best Film Editing",
-      "Best Original Score"
-    ],
-    "oscar_winning_list": ["Best Supporting Actor"]
-  },
-  {
-    "title": "The Lord of the Rings: The Fellowship of the Ring",
-    "year": "2001",
-    "genre": ["Action", "Adventure", "Drama"],
-    "country": ["New Zealand", "USA"],
-    "imdb_rating": 8.8,
-    "oscar_nominations": 13,
-    "oscar_winning": 4,
-    "cast": ["Elijah Wood", "Ian McKellen"],
-    "language": ["English", "Sindarin", "Quenya"],
-    "oscar_nominations_list": [
-      "Best Picture",
-      "Best Actor",
-      "Best Supporting Actor",
-      "Best Director",
-      "Best Adapted Screenplay",
-      "Best Film Editing",
-      "Best Original Score",
-      "Best Art Direction",
-      "Best Costume Design",
-      "Best Makeup",
-      "Best Sound",
-      "Best Visual Effects"
-    ],
-    "oscar_winning_list": [
-      "Best Original Score",
-      "Best Visual Effects",
-      "Best Art Direction",
-      "Best Makeup"
-    ]
-  },
-  {
-    "title": "The Lord of the Rings: The Two Towers",
-    "year": "2002",
-    "genre": ["Action", "Adventure", "Drama"],
-    "country": ["New Zealand", "USA"],
-    "imdb_rating": 8.7,
-    "oscar_nominations": 6,
-    "oscar_winning": 2,
-    "cast": ["Elijah Wood", "Ian McKellen"],
-    "language": ["English", "Sindarin", "Quenya"],
-    "oscar_nominations_list": [
-      "Best Picture",
-      "Best Supporting Actor",
-      "Best Director",
-      "Best Adapted Screenplay",
-      "Best Film Editing",
-      "Best Original Score"
-    ],
-    "oscar_winning_list": ["Best Original Score", "Best Visual Effects"]
-  },
-  {
-    "title": "The Empire Strikes Back",
+    "description": "The Empire Strikes Back is the darker, more emotionally charged second installment of George Lucas's Star Wars saga. With thrilling space battles, iconic characters like Darth Vader and Yoda, and unforgettable moments, this film set the bar for sequels and continues to be a fan favorite.",
+    "poster": "https://variety.com/wp-content/uploads/2017/05/empire-strikes-back.jpg",
     "year": "1980",
     "genre": ["Action", "Adventure", "Fantasy"],
     "country": ["USA"],
